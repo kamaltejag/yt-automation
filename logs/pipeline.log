@@ -1,0 +1,4 @@
+2025-05-18 13:16:10,390 - INFO - Starting pipeline for input/Two Sum  - coding.mp4
+2025-05-18 13:16:10,390 - INFO - Step 1: Denoising video
+2025-05-18 13:16:10,390 - INFO - Processing video file: Two Sum  - coding.mp4
+2025-05-18 13:16:10,390 - INFO - Using noise reduction model: /home/kamal/Projects/yt-automation/models/arnndn/lq.rnnn

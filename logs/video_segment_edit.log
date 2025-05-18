@@ -1,0 +1,11 @@
+2025-05-18 13:16:10,390 - INFO - Starting pipeline for input/Two Sum  - coding.mp4
+2025-05-18 13:16:10,390 - INFO - Step 1: Denoising video
+2025-05-18 13:16:10,390 - INFO - Processing video file: Two Sum  - coding.mp4
+2025-05-18 13:16:10,390 - INFO - Using noise reduction model: /home/kamal/Projects/yt-automation/models/arnndn/lq.rnnn
+2025-05-18 13:16:10,390 - INFO - Processing Two Sum  - coding.mp4
+2025-05-18 13:16:10,390 - INFO - Converting input/Two Sum  - coding.mp4 to WAV format
+2025-05-18 13:16:23,437 - INFO - Successfully converted to output/denoised/Two Sum  - coding_raw.wav
+2025-05-18 13:16:23,437 - INFO - Applying noise reduction to output/denoised/Two Sum  - coding_raw.wav
+2025-05-18 13:16:23,437 - INFO - Using model path: /home/kamal/Projects/yt-automation/models/arnndn/lq.rnnn
+2025-05-18 13:17:07,539 - INFO - Successfully applied noise reduction to output/denoised/Two Sum  - coding_clean.wav
+2025-05-18 13:17:07,539 - INFO - Converting output/denoised/Two Sum  - coding_clean.wav back to MP4

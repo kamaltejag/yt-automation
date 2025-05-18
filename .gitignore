@@ -1,3 +1,4 @@
-raw_videos/
+input/
 output/
-env/
+data/logs/
+.venv/
